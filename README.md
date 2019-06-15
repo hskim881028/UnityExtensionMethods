@@ -5,4 +5,5 @@ Unity Extension Methods in c#
 + .Net Core Version : 2.2  
 
 
-update whenever i have a good idea
+update whenever i have a good idea.
+test with unity testRunner tool (playMode).
